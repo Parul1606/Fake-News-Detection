@@ -1,4 +1,4 @@
-# Fake-NewsDetection
+# Fake-News-Detection
 
 This is a simple Fake News Detection project that utilizes Machine Learning (ML), Deep Learning (DL), LSTM (Long Short-Term Memory), Natural Language Processing (NLP), Stemming, Lemmatization, and Data Visualization techniques. This project aims to build a model that can classify news articles as real or fake.
 
