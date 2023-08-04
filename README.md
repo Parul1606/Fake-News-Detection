@@ -41,6 +41,7 @@ The project employs the following technologies:
 3. Natural Language Processing (NLP) for text data preprocessing
 4. Stemming and Lemmatization for text normalization
 5. Data Visualization libraries for presenting results effectively
+6. Flask to run the project on the website
 
 # Dataset
 The dataset used in this project is obtained from a reliable source and contains labelled news articles. It comprises two classes: "Real News" and "Fake News." The data should be split into training and testing sets to evaluate the model's performance.
