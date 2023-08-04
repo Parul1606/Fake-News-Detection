@@ -82,3 +82,16 @@ To use this Fake News Detection project, follow these steps:
 6. Evaluate the model's performance using the evaluation scripts.
 7. Visualize the results and insights gained from the analysis.
 8. Flask is used to view the website run the code run section and input your news articles, get the results as real or fake.
+
+Screenshots: -
+1.
+![image](https://github.com/Parul1606/Fake-News-Detection/assets/80768852/9eb126d5-a698-4c4e-92be-a5ea069fee20)
+
+![image](https://github.com/Parul1606/Fake-News-Detection/assets/80768852/aec0ae3b-9bb4-44d3-a290-298f4d01fe8e)
+
+
+2.
+![image](https://github.com/Parul1606/Fake-News-Detection/assets/80768852/ff1539f7-f79b-4457-b600-59888637ca86)
+
+![image](https://github.com/Parul1606/Fake-News-Detection/assets/80768852/f045235c-0a12-4a96-96ba-a8b70307f345)
+
